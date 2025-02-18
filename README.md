@@ -1,34 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **CodeCraft**
 
-## Getting Started
+## **Sobre o projeto**
 
-First, run the development server:
+**Conheça o DevStage**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Nessa edição vamos desenvolver o projeto DevStage, uma aplicação para inscrição em eventos com diversas funcionalidades. E o melhor: vamos construir isso juntos em apenas 3 aulas, usando tecnologias como Full-Stack, React, Java, Python, Node.js e C#  🚀
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+React: Para você que quer explorar os fundamentos da tecnologia, como componentes, estado e propriedades, enquanto cria um software de indicações para eventos online com Next.js. Além disso, vai aprender sobre TailwindCSS, Server Functions, roteamento e muito mais.
 
-## Learn More
+Guia do evento: https://efficient-sloth-d85.notion.site/NLW-Connect-Guia-do-evento-e223fad187bd435c8b751913fc4019eb
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Figma: https://www.figma.com/community/file/1471119935944492720/nlw-connect-devstage
